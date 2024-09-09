@@ -1,0 +1,55 @@
+body {
+    background-color: #000000;
+}
+
+#my-list {
+    font-size: 50px;
+    font-family: "Papyrus";
+    border-style: double;
+    list-style-type: hiragana-iroha;
+    height: 175px;
+}
+
+h1 {
+    color: #ffa366;
+    border-style: double;
+    letter-spacing: 10px;
+    text-transform: capitalize;
+}
+
+ #text {
+    font-family: "Papyrus";
+    border-style: double;
+    text-align: center;
+    line-height: 10;
+  }
+
+h2 {
+    border-style: double;
+    border-width: 6px;
+    color: #ffff1a;
+    text-align: center;
+    box-shadow: 5px 10px #b3b300;
+}
+
+dl {
+    font-family: "Papyrus";
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+.one {
+    color: #1affff;
+}
+.two {
+    color: #1a1aff;
+}
+#three {
+    color: #8c1aff;
+}
+#four {
+    color: #ff1aff;
+}
